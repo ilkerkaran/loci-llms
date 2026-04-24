@@ -17,9 +17,21 @@ Deliverable bundle and preview hosting for the Loci **`llms.txt`** and **`llms-f
 
 ## Live preview
 
-GitHub Pages serves this repository. The preview URL is visible in the repo settings (Settings → Pages) and pinned in this README once deployed.
+GitHub Pages serves this repository from the `main` branch root.
 
-Preview URL: _tbd — set once GitHub Pages finishes its first build._
+- **Preview root:** <https://ilkerkaran.github.io/loci-llms/>
+- **llms.txt:** <https://ilkerkaran.github.io/loci-llms/llms.txt>
+- **llms-full.txt:** <https://ilkerkaran.github.io/loci-llms/llms-full.txt>
+- **robots.txt (preview path):** <https://ilkerkaran.github.io/loci-llms/robots.txt> — note: crawlers read the domain-level `ilkerkaran.github.io/robots.txt`, which GitHub controls, so this file is effectively inert on the preview. It is only here so the agency sees the exact intended content for production.
+
+### Subpath caveat (preview-only)
+
+GitHub Pages project sites serve from `<user>.github.io/<repo>/` rather than a root domain. That means:
+
+- **T1 / T2 tests work fine** — we give the LLM the explicit `llms.txt` URL above.
+- **T3 (pure auto-discovery from just the root URL) is less realistic on the preview** than it would be on `lociapp.co.uk`. Treat preview T3 results as directional only.
+
+If T3 realism matters before production handover, move the preview to Netlify Drop, Cloudflare Pages, or a custom subdomain (e.g. `llms-preview.lociapp.co.uk`) — see `DESIGN.md`.
 
 ## Test plan (short version)
 
