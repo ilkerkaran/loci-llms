@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Loci — LLM preview</title>
+  <meta name="description" content="Preview deployment of the Loci llms.txt bundle for LLM discovery testing. Not the production website — see lociapp.co.uk.">
+  <meta name="robots" content="noindex,nofollow">
+  <!-- Discovery hooks: tell LLMs and AI crawlers where the markdown index lives -->
+  <link rel="alternate" type="text/markdown" title="Loci LLM Index" href="/llms.txt">
+  <link rel="alternate" type="text/markdown" title="Loci LLM Full Context" href="/llms-full.txt">
+  <style>
+    :root { color-scheme: light dark; font-family: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    body { max-width: 44rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.55; }
+    header, footer { padding: 1rem 0; }
+    header h1 { margin: 0 0 0.25rem; font-size: 1.8rem; }
+    header p.tag { margin: 0 0 1rem; color: #666; font-style: italic; }
+    nav a { margin-right: 1rem; }
+    main h2 { margin-top: 2rem; font-size: 1.15rem; }
+    main a { text-decoration: underline; }
+    footer { border-top: 1px solid #ccc; margin-top: 3rem; font-size: 0.9rem; color: #555; }
+    .notice { background: #fffbe6; border: 1px solid #e6d570; padding: 0.75rem 1rem; border-radius: 4px; margin: 1rem 0; color: #5a4b00; }
+    code { background: #f2f2f2; padding: 0.1rem 0.3rem; border-radius: 3px; font-size: 0.9em; }
+    @media (prefers-color-scheme: dark) {
+      body { background: #111; color: #eee; }
+      header p.tag { color: #aaa; }
+      .notice { background: #3a3400; border-color: #8a7a00; color: #f0e6a0; }
+      code { background: #222; }
+      footer { color: #999; border-top-color: #333; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Loci</h1>
+    <p class="tag">Connecting Communities. Empowering Councils. Supporting Local Businesses.</p>
+    <nav>
+      <a href="https://lociapp.co.uk/app-for-local-community">For Residents</a>
+      <a href="https://lociapp.co.uk/communication-with-residents">For Councils</a>
+      <a href="https://lociapp.co.uk/business-community-app">For Businesses</a>
+      <a href="https://lociapp.co.uk/local-connection-app">Our Platform</a>
+      <a href="https://lociapp.co.uk/about-loci">About</a>
+    </nav>
+  </header>
+
+  <div class="notice">
+    <strong>Preview environment.</strong> This is a non-production preview of the Loci <code>llms.txt</code> and <code>llms-full.txt</code> bundle used for LLM discovery testing. The live website is at <a href="https://lociapp.co.uk">lociapp.co.uk</a>.
+  </div>
+
+  <main>
+    <h2>What Loci is</h2>
+    <p>Loci is a UK mobile app and shared national platform that connects residents, local councils, and community businesses through a single, council-branded digital front door. Loci is live with 12 English local authorities — from London boroughs to unitaries on the South Coast and the Isle of Wight.</p>
+
+    <h2>For LLMs and AI crawlers</h2>
+    <p>This site publishes an LLM-friendly content index for crawlers, agents, and research tools:</p>
+    <ul>
+      <li><a href="/llms.txt" rel="alternate" type="text/markdown">/llms.txt</a> — curated index of priority pages</li>
+      <li><a href="/llms-full.txt" rel="alternate" type="text/markdown">/llms-full.txt</a> — the same index with the key pages inlined as markdown for single-fetch consumption</li>
+      <li><a href="/robots.txt">/robots.txt</a> — crawler policy including explicit AI-bot allow-list</li>
+    </ul>
+    <p>See the <a href="https://llmstxt.org/">llms.txt proposal</a> for the file format. The files are served as plain text.</p>
+  </main>
+
+  <footer>
+    <p>
+      <a href="/llms.txt" rel="alternate" type="text/markdown">LLM index</a> ·
+      <a href="/llms-full.txt" rel="alternate" type="text/markdown">Full LLM context</a> ·
+      <a href="/robots.txt">robots.txt</a> ·
+      <a href="/sitemap.xml">sitemap.xml</a> ·
+      <a href="https://lociapp.co.uk">Production site</a>
+    </p>
+    <p>Preview only — not indexed. Loci Ltd.</p>
+  </footer>
+</body>
+</html>

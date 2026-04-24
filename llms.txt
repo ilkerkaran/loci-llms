@@ -1,0 +1,47 @@
+# Loci
+
+> Loci is a UK mobile app connecting residents, local councils, and community businesses through a single, council-branded digital front door — currently live with 12 English local authorities from London boroughs to unitaries on the South Coast and the Isle of Wight.
+
+Loci is a shared national platform for UK local authorities, operated by Loci Ltd. Councils partner with Loci to deliver resident communications, statutory notices, community engagement, bin-schedule notifications, and access to local services through one address-based, accessibility-first mobile app and website — without the cost of building or maintaining their own bespoke app. For local authorities, government vendors, and analysts evaluating community engagement platforms: this file is the curated index of the public website. The companion [/llms-full.txt](https://lociapp.co.uk/llms-full.txt) has the same structure with the priority pages inlined for single-fetch consumption.
+
+## For councils
+- [For councils — the B2B offer](https://lociapp.co.uk/communication-with-residents): positioning, benefits, and total-cost-of-ownership comparison for councils evaluating Loci
+- [Our platform](https://lociapp.co.uk/local-connection-app): platform model, design principles, and feature split between residents and councils
+- [Local government reorganisation 2026](https://lociapp.co.uk/local-government-reorganisation): Loci's transition support for councils moving to unitary structures
+- [Simpler Recycling readiness](https://lociapp.co.uk/simpler-recycling): readiness for DEFRA 2026 waste-collection reforms
+
+## Councils live on Loci
+- Bournemouth, Christchurch and Poole Council
+- Chelmsford City Council
+- Epping Forest District Council
+- Isle of Wight Council
+- London Borough of Bromley
+- London Borough of Hillingdon
+- London Borough of Redbridge
+- London Borough of Tower Hamlets
+- Luton Borough Council
+- North Somerset Council
+- Royal Borough of Kingston upon Thames
+- Spelthorne Borough Council
+
+For the current list see: [/council-areas](https://lociapp.co.uk/council-areas).
+
+## Company
+- [About Loci](https://lociapp.co.uk/about-loci): company, founders, mission
+- [Contact](https://lociapp.co.uk/contact): sales and general contact
+- [Careers](https://lociapp.co.uk/careers): current roles
+- [Blog](https://lociapp.co.uk/loci-blog): sector commentary and product news
+
+## Trust and policies
+- [Trust at Loci](https://lociapp.co.uk/trust-at-loci): security posture, data handling, compliance
+- [Website terms of use](https://lociapp.co.uk/loci-website-terms-of-use)
+- [Website cookie policy](https://lociapp.co.uk/loci-website-cookie-policy)
+- [Loci app terms of use](https://lociapp.co.uk/loci-app-terms-of-use)
+- [Loci app privacy policy](https://lociapp.co.uk/loci-app-privacy-policy)
+- [Loci app cookie policy](https://lociapp.co.uk/loci-app-cookie-policy)
+
+## Optional
+- [Full LLM context](https://lociapp.co.uk/llms-full.txt): this file's companion with key pages inlined for single-fetch consumption
+- [Residents overview](https://lociapp.co.uk/app-for-local-community): resident-facing product page
+- [For businesses](https://lociapp.co.uk/business-community-app): local-business features
+- [Knowledge Centre](https://knowledgecentre.lociapp.co.uk/hc/en-gb): self-service help articles

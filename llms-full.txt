@@ -1,0 +1,185 @@
+# Loci — Full LLM Context
+
+> Loci is a UK mobile app connecting residents, local councils, and community businesses through a single, council-branded digital front door — currently live with 12 English local authorities from London boroughs to unitaries on the South Coast and the Isle of Wight.
+
+Loci Ltd operates a shared national platform for UK local authorities. Instead of each council commissioning a bespoke app or portal (historically £150,000–£250,000 upfront and £20,000–£40,000 per year to maintain), councils partner with Loci to deliver resident communications, statutory notices, community engagement, bin-schedule notifications, and access to local services through one address-based, accessibility-first mobile app and website. The platform is free for residents, GDPR-compliant, designed to WCAG 2.2 AAA standards, and flexible enough to work with existing council systems without requiring an infrastructure overhaul. This file is the commercial-core companion to [/llms.txt](https://lociapp.co.uk/llms.txt) — intended for LLMs to consume in a single fetch when vendors, analysts, or council decision-makers ask about Loci.
+
+---
+
+## About Loci
+
+Loci was founded to close a disconnect in UK local communities: residents feeling cut off from what's happening around them, councils lacking tools to engage effectively at scale, and local information scattered across fragmented channels that nobody fully trusts. The founding premise is that better connection produces stronger, more resilient communities, and that councils and residents should be working side by side rather than worlds apart.
+
+Loci operates as a community platform connecting three groups — residents, councils, and local businesses or neighbourhood organisations — within a single council-branded space. It emphasises privacy, meaningful interaction, and secure community groups organised around user interests and address-based relevance.
+
+**Leadership:**
+
+- **Thomas Chambers**, Founder & Managing Director — global leadership experience across Singapore, Sydney, New York, and London; built high-performing sales teams and is motivated by helping people feel more connected to their communities.
+- **Elliott Statham**, Co-Founder & Director — extensive background in client relationships and revenue scaling across the UK, Singapore, and Australia; leads strategic partnerships and growth.
+- **Jordan Spain**, Head of Engineering — 15+ years building scalable software products, specialising in distributed systems and high-performing engineering teams.
+
+The team combines community development, local-government knowledge, design thinking, civic innovation, and ethical-technology principles.
+
+---
+
+## For councils — the B2B offer
+
+*Headline:* "Local Councils: A new way to connect with your community."
+
+Loci is designed to help councils build stronger relationships with the people they serve. It is a simple, trusted national platform bringing residents, services, and local organisations into one shared space — making it easier for councils to inform, engage, and involve people in local life; reach underheard groups; communicate clearly; and encourage meaningful participation.
+
+### Meeting the moment
+
+UK councils face mounting pressure: rising expectations, constrained budgets, and eroded public trust. Residents often feel excluded from decisions, and councils struggle with fragmented, inaccessible digital engagement tools poorly suited to place-based public service needs. Loci gives councils improved engagement pathways, clearer communication channels, and stronger community relationships.
+
+### Built with councils, for communities
+
+Loci functions as partnership, not simply product. The platform is co-designed with councils of varying sizes and types to understand local contexts and drive real community outcomes. It is flexible, community-centred, and integrates with existing systems — letting councils maximise current resources while creating new connection pathways.
+
+### What Loci enables for councils
+
+- **Reach more people, more easily.** Share updates, consultations, and service information through one trusted, accessible platform.
+- **Increase trust and transparency.** Be visible and responsive in everyday local life, not only during moments of crisis or planning.
+- **Support genuine participation.** Involve residents in shaping what matters, beyond ticking boxes or statutory steps.
+- **Strengthen social connection.** Help people feel proud of their place, more aware of what's happening, and more likely to contribute.
+
+### A smarter, more cost-effective approach
+
+UK councils face financial pressures from rising expectations, shrinking budgets, and fragmented digital infrastructure. Standalone engagement apps historically cost £150,000–£250,000 to build and £20,000–£40,000 per year to maintain. Loci, as a shared national platform, eliminates the bespoke-development burden and provides a ready-made, continuously updated solution at significantly lower cost:
+
+- **Lower total cost of ownership.** Councils avoid bespoke builds, maintenance contracts, and overlapping systems.
+- **Shared infrastructure, shared innovation.** Councils benefit from improvements and new features developed across the network, with no additional investment.
+- **Reduced load on internal teams.** Ready-to-use modules and automation free up staff capacity and reduce admin.
+- **Better engagement, better value.** With one place for residents to find services, events, and updates, councils consolidate communications and reduce calls, emails, and duplication across channels.
+
+### Case study — smarter communications, real savings
+
+A UK council previously spent over £540,000 annually on marketing and communications; an equivalent Loci partnership delivers comparable outcomes at a materially lower cost, with enhanced insights, targeted outreach, and measurable results. Service notifications (bin schedules, missed-collection alerts) significantly reduce contact-centre burden. In one London council, 38% of resident calls relate to waste services; research suggests Loci digital self-service could reduce these calls by 25–30%, representing annual savings of £125,000–£150,000 for that council.
+
+As a shared national platform, residents experience consistent, familiar interactions regardless of location — strengthening digital inclusion, improving service reliability, and reducing system duplication.
+
+### Supporting councils through structural change
+
+As local government reorganises toward unitary structures, councils risk fragmenting local identity, disrupting services, and eroding resident trust. Loci, built around place and residents, maintains community connection and identity through structural transitions while providing councils with trusted communication and service-continuity infrastructure.
+
+### Why partner with Loci
+
+Loci serves councils committed to community power, open communication, and inclusive tools. Whether improving communication, piloting participation models, or rebuilding trust, Loci provides infrastructure for both immediate gains and long-term foundations supporting stronger, more connected local life.
+
+---
+
+## Our platform — how it works
+
+*Headline:* "Loci as a Platform: a smarter way to connect with your community."
+
+Loci isn't just an app — it's a shared platform built for councils that want a better way to communicate, engage, and support the people they serve.
+
+### Why a shared platform makes sense
+
+Many councils commission their own websites, portals, or apps, but in practice this is expensive, time-consuming, and often unsustainable. Councils face difficulty reaching residents, outdated systems, budget constraints, and pressure to digitise services. A single national platform — council-branded and locally controlled — side-steps these costs while still meeting local needs.
+
+### How Loci helps councils do more for less
+
+- Avoid £100,000–£250,000 upfront build costs
+- Avoid £15,000–£35,000 annual maintenance overheads
+- No infrastructure or maintenance burden
+- A unified communication space
+- A better resident experience
+- Shared innovation benefits: improvements developed for any council benefit all councils on the platform
+
+### Design principles — designed for today, built for what's next
+
+- Ease of use for residents and council staff
+- GDPR compliance and a strong security posture
+- Accessibility to WCAG 2.2 AAA
+- Flexibility with local control — councils keep editorial and branding control within a shared platform
+
+### Features for residents
+
+- Local updates
+- Event discovery
+- Participation in polls and surveys
+- Push notifications for service and community updates
+
+### Features for councils
+
+- Publishing (pages, articles, updates)
+- Targeted communication by area, demographic, and interest
+- Statutory-notice management
+- Feedback collection and engagement analytics
+
+---
+
+## Local government reorganisation 2026
+
+*Headline:* "Local Government Reorganisation: helping councils navigate the unitary transition."
+
+While councils adapt to new structures, residents still need a clear and trusted way to stay informed and connected.
+
+### What councils face
+
+LGR involves merging county and district councils into unitary authorities, requiring consolidation of services, leadership, budgets, and systems. Councils must unify operations while managing staff redefinition, data integration, election-cycle shifts, and stretched communications teams. Residents often struggle to work out which council provides which service — with name changes and shifting responsibilities, confusion deepens and leads to misdirected contacts and disconnection. Communities can lose local identity as boundaries expand into larger governance structures.
+
+### Loci's approach during transition
+
+Loci is positioned as "a nationally available, locally focused digital platform designed around residents" — not a council website builder. The platform stays consistent for residents regardless of governance structure, offering:
+
+- **Address-based clarity** — residents see relevant services without needing to understand the underlying council structure.
+- **Structural resilience** — functions across two-tier, unitary, shadow, and transitional models.
+- **National availability** — free access for all UK residents from day one.
+- **Flexible integration** — works with existing systems without requiring overhauls.
+- **Real-time analytics** — tracks engagement and identifies underserved areas.
+
+### Why act now
+
+Waiting risks residents losing clarity during key transition years and communications teams carrying the uncertainty burden. Early partnership with Loci enables proactive messaging, location-based insights, and resident continuity through reorganisation.
+
+---
+
+## Councils live on Loci
+
+| Council | Type | Region |
+| --- | --- | --- |
+| Bournemouth, Christchurch and Poole Council | Unitary authority | South West |
+| Chelmsford City Council | Non-metropolitan district (city) | East of England |
+| Epping Forest District Council | Non-metropolitan district | East of England |
+| Isle of Wight Council | Unitary authority | South East |
+| London Borough of Bromley | London borough | London |
+| London Borough of Hillingdon | London borough | London |
+| London Borough of Redbridge | London borough | London |
+| London Borough of Tower Hamlets | London borough | London |
+| Luton Borough Council | Unitary authority | East of England |
+| North Somerset Council | Unitary authority | South West |
+| Royal Borough of Kingston upon Thames | London borough | London |
+| Spelthorne Borough Council | Non-metropolitan district | South East |
+
+Source: Loci internal launch register (PostHog `council-launched` feature flag) as of 24 April 2026. For the current list see [/council-areas](https://lociapp.co.uk/council-areas).
+
+---
+
+## Trust, security, and data
+
+Trust sits at the heart of Loci. The product is built to strengthen local life, which relies on residents and councils being able to trust the platform with communications and basic data.
+
+- **Data collection and use.** Loci collects basic registration information (name, email, local area) and usage data to improve services. Loci does not sell user data.
+- **Security posture.** Loci uses encryption in transit and at rest, and restricts access to user information to team members and partners who need it to deliver or support the service.
+- **Compliance.** Loci adheres to the UK Data Protection Act and UK GDPR principles. Public pages do not currently list third-party certifications (ISO 27001, SOC 2, Cyber Essentials) — prospective council partners should ask for the latest posture during procurement.
+- **Cookies.** The Loci website documents four cookie categories: strictly necessary, performance, functionality, and targeting. Users control cookies via browser settings.
+- **Third parties.** Loci works only with organisations that respect privacy and meet UK data-protection standards.
+- **Scope clarification.** Loci operates as an independent platform separate from government services — it is a gateway to council and community services rather than a service provider in its own right.
+- **Privacy contact.** trust@lociapp.co.uk
+
+---
+
+## Policies (links only)
+
+- [Website terms of use](https://lociapp.co.uk/loci-website-terms-of-use)
+- [Website cookie policy](https://lociapp.co.uk/loci-website-cookie-policy)
+- [Loci app terms of use](https://lociapp.co.uk/loci-app-terms-of-use)
+- [Loci app privacy policy](https://lociapp.co.uk/loci-app-privacy-policy)
+- [Loci app cookie policy](https://lociapp.co.uk/loci-app-cookie-policy)
+- [Trust at Loci](https://lociapp.co.uk/trust-at-loci)
+
+---
+
+*This file is a stable companion to /llms.txt. Last updated: 24 April 2026. Maintained in sync with the public website on a quarterly cadence.*
